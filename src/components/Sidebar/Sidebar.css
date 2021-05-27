@@ -1,0 +1,58 @@
+.SideBar {
+    width: 200px;
+    height: 100%;
+    position: fixed;
+    background: red;
+    padding: 5px;
+  }
+  
+  
+  .btn-sidebar {
+    border: 1px solid;
+    border-radius: 20px !important;
+    border-color: white !important;
+    color: white !important;
+    padding: 5px;
+    padding-left: 10px;
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+
+  /* .Sidebar{
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    background-color: red;
+}
+
+.SidebarList{
+    padding: 0;
+    width: 100%;
+}
+
+.SidebarList .row{
+    width: 100%;
+    height: 60px;
+    list-style-type: none;
+    margin: 0%;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.SidebarList .row:hover{
+    cursor: pointer;
+    background-color: #293846;
+}
+
+.SidebarList #active{
+    background-color: #293846;
+}
+
+.row #icon{
+    flex: 30%;
+    display: grid;
+} */
