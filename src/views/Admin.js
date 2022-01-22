@@ -6,7 +6,7 @@ function Admin() {
     <div>
       <Container>
         <Row>
-          <Col> 
+          <Col sm={{ size: 6, order: 2, offset: 1 }}> 
             <h1>Welcome, admin</h1>
           </Col>
         </Row>
